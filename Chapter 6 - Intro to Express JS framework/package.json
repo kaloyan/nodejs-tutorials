@@ -1,0 +1,19 @@
+{
+  "name": "chapter-6---intro-to-expressjs-framework",
+  "version": "1.0.0",
+  "description": "Intro to Express JS framework",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "Kaloyan Ivanov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
