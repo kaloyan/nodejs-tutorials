@@ -1,0 +1,1 @@
+20220516	13:33:04	71e0d1b1-164e-40d4-b0ee-c77f8659e7f4	Error: Not allowed by CORS!

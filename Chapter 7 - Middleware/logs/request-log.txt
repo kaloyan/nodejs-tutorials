@@ -1,0 +1,7 @@
+20220516	13:33:04	ab627f17-7851-4fd9-813a-a326680f330a	GET	https://www.google.com	/
+20220516	13:43:18	d2e7180a-061f-49e5-96e7-1a30d7934359	GET	undefined	/
+20220516	13:43:18	edc3d15d-c148-4f58-ae80-b2654a473087	GET	undefined	/css/style.css
+20220516	13:43:19	cd8455cc-a4f7-48b8-8f31-8f3cbf983662	GET	undefined	/favicon.ico
+20220516	13:44:41	11b203eb-7c29-4ee2-9fca-e7c21dc9c2f0	GET	undefined	/
+20220516	13:44:41	9c6d2d89-275d-4514-973e-97b75f1713fc	GET	undefined	/css/style.css
+20220516	13:44:41	37a3d119-23c2-4da2-babd-24e6415cf430	GET	undefined	/favicon.ico
