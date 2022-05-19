@@ -1,0 +1,16 @@
+20220519	10:54:12	33c96954-501a-40f8-b1aa-82d141c5712f	GET	undefined	/
+20220519	10:54:12	e5eb6397-7ff4-45ff-9099-6e31c7ff8052	GET	undefined	/css/style.css
+20220519	10:54:13	6d73ff71-1d30-46d9-8c11-b87eecbadcb2	GET	undefined	/favicon.ico
+20220519	10:55:28	d2e9ecae-3a26-4696-a151-28115fed20eb	GET	undefined	/employees
+20220519	10:56:51	59428342-ad5a-4c05-b1b3-cf6d37bbc053	POST	undefined	/auth
+20220519	11:00:38	d7a349d5-63c9-40e3-89df-a043e0dfe8e8	POST	undefined	/auth
+20220519	11:01:28	9804556f-da41-463d-99fb-aaef41748bed	POST	undefined	/auth
+20220519	11:01:49	f279e795-d569-4e1d-aa84-3b8ab24cfd61	GET	undefined	/employees
+20220519	11:02:08	a11a9cae-a57c-4da8-9e69-2cc7d8513f50	GET	undefined	/employees
+20220519	11:03:08	804ea8ea-b11c-4b05-bd35-a326589f009b	GET	undefined	/employees
+20220519	11:03:13	5d3361e7-8ff1-4966-b32b-f55de2142cdb	POST	undefined	/auth
+20220519	11:03:24	b3b4e457-c503-4f6e-92ea-c790c0078e14	GET	undefined	/employees
+20220519	11:03:29	23a68be3-bf60-48f3-ae29-19826966efb6	POST	undefined	/employees
+20220519	11:53:29	e0edb53d-1c1d-4d9e-b80f-74b3c9817281	GET	undefined	/
+20220519	11:53:29	d00272f1-49b9-4d51-8fae-fd70139cea91	GET	undefined	/css/style.css
+20220519	11:53:30	54dc7fd8-2e7b-4adb-8da2-5c6220d3de58	GET	undefined	/favicon.ico
