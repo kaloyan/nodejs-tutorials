@@ -14,3 +14,6 @@
 20220519	11:53:29	e0edb53d-1c1d-4d9e-b80f-74b3c9817281	GET	undefined	/
 20220519	11:53:29	d00272f1-49b9-4d51-8fae-fd70139cea91	GET	undefined	/css/style.css
 20220519	11:53:30	54dc7fd8-2e7b-4adb-8da2-5c6220d3de58	GET	undefined	/favicon.ico
+20220519	13:13:13	49601df6-bfd9-4ec9-a763-86fe03c29f4a	POST	undefined	/register
+20220519	13:14:15	f850820a-9e36-4b79-bbbe-7fcd49efbcb8	POST	undefined	/register
+20220519	13:14:36	556f638e-dd03-4ece-8700-f9d0bd32a9f3	POST	undefined	/register
